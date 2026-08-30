@@ -43,6 +43,5 @@ Senior Software Developer with 5+ years of experience designing and building pro
 |---|---|---|
 | [**capital-gains**](https://github.com/sgranadaag/capital-gains) | Calculates capital gains tax from a list of stock transactions. Built with a layered architecture (Domain, Data, Presentation) following functional programming principles, with full unit and requirement-based test coverage. | `Node.js` `JavaScript` `Jest` |
 | [**next-core**](https://github.com/sgranadaag/next-core) | Reusable Next.js microfrontend template with a pluggable state layer, UI kit, SCSS design system, and multi-stage Docker build. Used as the base architecture for new microfrontends. | `Next.js` `React` `TypeScript` `SCSS` `Jest` `Docker` |
-| [**nest-core**](https://github.com/sgranadaag/nest-core) | Pure hexagonal architecture implementation — a stack-agnostic template with a practical, end-to-end example to guide devs through ports & adapters and DDD concepts. | `NestJS` `TypeScript` |
-| [**architecture-styles**](https://github.com/sgranadaag/architecture-styles) | Reference notes and examples exploring different software architecture styles and patterns. | `Software Architecture` |
+| [**nest-hexagonal**](https://github.com/sgranadaag/nest-hexagonal) | Pure hexagonal architecture (DDD + Ports & Adapters) template and guide, with a full end-to-end example — REST and GraphQL over the same use cases, Postgres via TypeORM — built around a Library/Author/Book domain. | `NestJS` `TypeScript` `GraphQL` `PostgreSQL` |
  
