@@ -1,11 +1,16 @@
 <h1 align="center">Hi, I'm Santiago👋</h1>
 
+
+This profile groups open-source examples and implementations covering software development practices, design, patterns, and technologies. Each one is meant to be freely replicated, with a thorough write-up of what it does and why, so anyone can use it as a reference or a starting point.
+
+Feel free to use, fork, or build on any of it. If you do, I'd appreciate being credited as a co-author on the resulting implementation — not required, just appreciated.
+
 ---
- 
-### About me
- 
-Senior Software Developer with 5+ years of experience designing and building products end to end, across React, Next.js, Node.js, and Flutter. I focus on software architecture: microservices, event-driven systems, and scalable, maintainable codebases. Over my career I've led architecture migrations (monolith to microservices, Next.js 12 to 15, multi-repo to monorepo), driven measurable improvements in performance and cost, and led engineering teams through code reviews, planning, and delivery. Systems Engineer by training, with a postgraduate degree in Software Engineering.
- 
+
+### 🤖 About me
+
+Senior Software Developer with 5+ years of experience. Detailed experience lives on [LinkedIn](https://www.linkedin.com/in/sgranadaag/)
+
 ---
 
 ### 🛠️ Tech Stack
