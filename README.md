@@ -56,14 +56,3 @@ Senior Software Developer with 5+ years of experience. Detailed experience lives
 | [**oauth**](https://github.com/sgranadaag/oauth) | Pure OAuth 2.0 (RFC 6749) implementation built from scratch to show how the flows work and why: authorization code, client credentials, and refresh token rotation across a public client, a login app, and an authorization server — with sequence diagrams and a one-command Docker setup. | `NestJS` `Next.js` `TypeScript` `MongoDB` `Docker` |
 | [**nest-hexagonal**](https://github.com/sgranadaag/nest-hexagonal) | Pure hexagonal architecture (DDD + Ports & Adapters) template and guide, with a full end-to-end example — REST and GraphQL over the same use cases, Postgres via TypeORM — built around a Library/Author/Book domain. | `NestJS` `TypeScript` `GraphQL` `PostgreSQL` |
 | [**specs-manager**](https://github.com/sgranadaag/specs-manager) | Portable, stack-agnostic spec-driven development toolkit for Claude Code: a spec-first requirements → design → tasks → implement → commit → verify workflow, enforced by a hook. Each repository keeps its own specs, with shared contracts to keep interfaces between services in sync. | `Claude Code` `Bash` `Markdown` |
-
----
-
-### Certifications
-
-<!-- One <a><img></a> per badge. Image: the og:image id from the badge's public page → https://images.credly.com/size/340x340/images/<id>/blob -->
-<p>
-  <a href="https://www.credly.com/badges/8560cfb4-f787-4d93-8a80-b84ce750936e/public_url" title="AWS Academy Graduate - Cloud Foundations">
-    <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="110" alt="AWS Academy Graduate - Cloud Foundations" />
-  </a>
-</p>
