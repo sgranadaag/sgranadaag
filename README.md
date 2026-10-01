@@ -13,41 +13,6 @@ Senior Software Developer with 5+ years of experience. Detailed experience lives
 
 ---
 
-### Tech Stack
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b>Frontend</b><br>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,dart" height="36" />
-    </td>
-    <td width="33%" valign="top">
-      <b>Backend</b><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" height="36" />
-    </td>
-    <td width="33%" valign="top">
-      <b>Databases</b><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq,redis,elasticsearch" height="36" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <b>CI/CD</b><br>
-      <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git" height="36" />
-    </td>
-    <td width="33%" valign="top">
-      <b>Infra &amp; Cloud</b><br>
-      <img src="https://skillicons.dev/icons?i=docker,aws,linux" height="36" />
-    </td>
-    <td width="33%" valign="top">
-      <b>AI</b><br>
-      <img src="assets/claude.svg" height="36" alt="Claude" title="Claude" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### Featured Projects
  
 | Project | Description | Tech |
