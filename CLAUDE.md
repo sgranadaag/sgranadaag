@@ -4,7 +4,7 @@ This is the user's own GitHub profile repository — `README.md` is the content 
 
 ## README structure & philosophy
 
-- **Purpose comes first, person second.** The opening copy (no heading, right under the `<h1>`) frames this GitHub account as a hub of open-source examples/implementations covering software development practices, design, patterns, and technologies — each meant to be freely replicated, with a thorough write-up of what it does and why. This section comes *before* "About me".
+- **Purpose comes first, person second.** The opening copy (no heading, right under the `<h1>`) frames this GitHub account as a hub of open-source examples/implementations covering software development practices, design, patterns, and technologies — each meant to be freely replicated, with a thorough write-up ohat it does and why. This section comes *before* "About me".
 - **Usage terms are explicit**: anyone is free to use, fork, or build on the examples here. Credit as co-author on the resulting implementation is appreciated, not required. Keep this stated plainly whenever that copy changes — don't drop it or soften it into something vaguer.
 - **"About me" stays deliberately minimal** — a one-line bio, no career narrative — and links out to [LinkedIn](https://www.linkedin.com/in/sgranadaag/) for detailed experience. Don't re-expand this section with role history, achievements, or dates; that level of detail belongs on LinkedIn or in the CV (`docs/`), not in this README.
 - **Section order**: profile purpose → About me → Tech Stack → Featured Projects → Certifications.
